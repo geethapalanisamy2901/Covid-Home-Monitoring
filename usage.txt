@@ -1,0 +1,8 @@
+Software used : XAMPP
+
+Languages Used : 
+  HTML
+  CSS
+  JS
+  PHP
+  MYSQL
